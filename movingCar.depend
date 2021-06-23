@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560587013 source:c:\users\yohannes-dell\documents\graphics\movingcar\main.cpp
+	<iostream>
+	<graphics.h>
+
